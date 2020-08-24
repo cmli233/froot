@@ -9,3 +9,5 @@ My name is Chad, I am a junior at UK majoring in ICT wiht a minor in crimonology
 <li>Collecting vinyl records.</li>
 <li>Swimming.</li>
 </ul>
+
+![pic of me](/path/to/me.jpg "Myself")
