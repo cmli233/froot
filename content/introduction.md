@@ -11,5 +11,3 @@ draft: false
 <li>Collecting vinyl records</li>
 <li>Swimming</li>
 </ol>
-
-![pic of me](https://dreamy-kirch-e48278.netlify.app/me.jpg "Myself")
